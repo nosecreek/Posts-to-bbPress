@@ -240,6 +240,6 @@ function posts_to_bbpress($to_forum, $authors, $delete_posts=false, $delete_comm
 	/*** Remove rewrite rules and then recreate rewrite rules. ***/
 	
 	$wp_rewrite->flush_rules();
-		
+	
 }
 ?>
