@@ -6,8 +6,6 @@ Requires at least: 3.0
 Tested up to: 3.4.2
 Stable tag: 0.1
 
-Video.js is the most widely used HTML5 Video Player available. It allows you to embed video in your post or page using HTML5.
-
 == Description ==
 
 Converts WordPress posts and comments to bbPress topics and replies. Also useful for importing Blogger into bbPress - just import Blogger into WordPress and then use this to convert your posts/comments to bbPress!
